@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<layout>
+    <customer_account>
+        <!-- Mage_Wishlist -->
+        <reference name="customer_account_navigation">
+            <!-- remove the unnecessry links from the customer account navigation -->
+            <!--
+            <action method="removeLinkByName"><name>downloadable</name></action>
+            <action method="removeLinkByName"><name>newsletter</name></action>
+            <action method="removeLinkByName"><name>OAuth Customer Tokens</name></action>
+            <action method="removeLinkByName"><name>reviews</name></action>
+            <action method="removeLinkByName"><name>tags</name></action>
+            <action method="removeLinkByName"><name>billing_agreements</name></action>
+            <action method="removeLinkByName"><name>recurring_profiles</name></action>
+            <action method="removeLinkByName"><name>downloadable_products</name></action>
+            <action method="removeLinkByName"><name>wishlist</name></action>
+            -->
+        </reference>
+    </customer_account>
+</layout>
